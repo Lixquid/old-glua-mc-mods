@@ -6,7 +6,7 @@
  - [Forge Mod Loader](http://files.minecraftforge.net/)
  - [OptiFine](https://optifine.net/downloads) ???
 
-# Actual Mods
+## Forge Mods
 
  - [Applied Energistics 2](https://minecraft.curseforge.com/projects/applied-energistics-2)
  - [Refined Storage](https://minecraft.curseforge.com/projects/refined-storage)
@@ -22,9 +22,14 @@
  - [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
  - [Iron Backpacks](https://minecraft.curseforge.com/projects/iron-backpacks)
  - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
- - [Inventory Sorter](https://minecraft.curseforge.com/projects/inventory-sorter)
  
-# Library Mods
+ # Client Mods
+ 
+ - [Inventory Sorter](https://minecraft.curseforge.com/projects/inventory-sorter)
+ - [JEI](https://minecraft.curseforge.com/projects/just-enough-items-jei)
+ 
+ 
+## Library Mods
 
 # Ideas / Notes
 
