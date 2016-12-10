@@ -4,7 +4,7 @@
 
 ### 0.1.0
 
-- Initial Version :tada:
+- Initial Version 🎉
 - Added Applied Energistics 2
 - Added Better Builder's Wands
 - Added Custom Main Menu
@@ -17,7 +17,7 @@
 - Added Just Enough Items
 - Added Mekanism, Mekanism Generators, Mekanism Tools
 - Added Open Computers
-- Added Ragned Pumps
+- Added Ranged Pumps
 - Added Refined Storage
 - Added Reliquary
 - Added Soul Shards The Old Ways
