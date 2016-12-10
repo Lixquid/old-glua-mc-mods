@@ -24,6 +24,9 @@
  - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
  - [Super Crafting Frame](https://mods.curse.com/mc-mods/minecraft/super-crafting-frame)
  - [Tinker's Construct](https://mods.curse.com/mc-mods/minecraft/tinkers-construct)
+ - [Soul Shards The Old Ways](https://minecraft.curseforge.com/projects/soul-shards-the-old-ways)
+ - Reliquary
+ - Better Builder's Wands
  
  ## Client Mods
  
