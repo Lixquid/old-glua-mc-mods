@@ -2,6 +2,15 @@
 
 <h3 align="center"><code>server.meinkraft.glua.team</code></h3>
 
+### 0.3.0
+
+- Added Fast Leaf Decay
+- Added Nether Portal Fix
+- Added RFTools Dimensions
+- Added Waila
+- Added Waila Harvestability
+- Added Wawla
+
 ### 0.2.0
 
 - Added Chisel
