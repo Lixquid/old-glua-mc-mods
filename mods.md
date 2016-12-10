@@ -18,6 +18,10 @@
  - [Open Computers](https://minecraft.curseforge.com/projects/opencomputers)
  - [FTB Utils](https://minecraft.curseforge.com/projects/ftb-utilities)
  - [Draconic Evolution](https://minecraft.curseforge.com/projects/draconic-evolution)
+ - [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
+ - [Iron Backpacks](https://minecraft.curseforge.com/projects/iron-backpacks)
+ - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
+ 
 # Library Mods
 
 # Ideas / Notes
