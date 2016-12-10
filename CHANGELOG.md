@@ -2,6 +2,15 @@
 
 <h3 align="center"><code>server.meinkraft.glua.team</code></h3>
 
+### 0.2.0
+
+- Added Chisel
+- Added Gravestone Mod
+- Added JourneyMap
+- Added Just Enough Resources
+- Added RF Tools
+- Added Storage Drawers
+
 ### 0.1.0
 
 - Initial Version 🎉
