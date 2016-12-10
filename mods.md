@@ -14,7 +14,6 @@
    - [CraftIRC](https://forums.spongepowered.org/t/craftirc-an-irc-minecraft-relay-plugin-api-4-0-0/6083) (to connect to #glua-freenode @ freenode)
  - [Mekanism](http://aidancbrady.com/mekanism/download/)
  - [Tails mod](https://minecraft.curseforge.com/projects/tails)
- - [Thermal Expansion](https://mods.curse.com/mc-mods/minecraft/thermalexpansion)
 
 # Library Mods
 
