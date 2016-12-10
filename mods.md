@@ -23,7 +23,7 @@
  - [Iron Backpacks](https://minecraft.curseforge.com/projects/iron-backpacks)
  - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
  
- # Client Mods
+ ## Client Mods
  
  - [Inventory Sorter](https://minecraft.curseforge.com/projects/inventory-sorter)
  - [JEI](https://minecraft.curseforge.com/projects/just-enough-items-jei)
