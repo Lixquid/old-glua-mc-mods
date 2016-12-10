@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.6/semantic.min.css" />
         <link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.8.0/css/alertify.min.css"/>
         <link rel="stylesheet" href="//cdn.jsdelivr.net/alertifyjs/1.8.0/css/themes/semantic.min.css"/>
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" />
@@ -121,7 +121,7 @@
                 color: #F9FAFB !important;
             }
 
-            * {
+            *:not(i) {
                 font-family: 'Open Sans', sans-serif !important;
             }
 
@@ -130,7 +130,7 @@
             }
         </style>
 
-        <title>glua.team</title>
+        <title>meinkraft.glua.team</title>
     </head>
     <body>
         <div class="cover"></div>
@@ -151,8 +151,37 @@
             </div>
 
             <div class="ui center aligned very padded basic segment">
-                <div class="ui inverted header">
-                    <h1 style="font-size: 1.5em; font-weight: lighter;">server.meinkraft.glua.team</h1>
+                <div class="ui centered cards">
+                    <div class="card" style="width: 30%;">
+                        <div class="content">
+                            <div class="header">
+                                server.meinkraft.glua.team
+                            </div>
+                            <div class="meta" id="serverlist-status">
+                                Loading...
+                            </div>
+                            <div class="description">
+                                <table class="ui fixed selectable celled table">
+                                    <thead>
+                                        <tr>
+                                            <th>Players</th>
+                                            <th>Max Players</th>
+                                            <th>Ping</th>
+                                            <!--<th>MOTD</th>-->
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td id="sl-players">-</td>
+                                            <td id="sl-maxplayers">-</td>
+                                            <td id="sl-ping">-</td>
+                                            <!--<td id="sl-motd">-</td>-->
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -182,7 +211,7 @@
     <script src="./js/jquery.min.js"></script>
     <script src="./js/cookie.js"></script>
     <script src="./js/jquery.youtubebackground.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.6/semantic.min.js"></script>
     <script src="https://cdn.jsdelivr.net/alertifyjs/1.8.0/alertify.min.js"></script>
 
     <script type="text/javascript">
@@ -253,6 +282,33 @@
             
             glua.team.mods = array;
         }
+    </script>
+
+    <script type="text/javascript">
+        let serverIP = "server.meinkraft.glua.team";
+
+        function parseMotd(motd) {
+            return "lol"
+        }
+
+        $.get(`https://eu.mc-api.net/v3/server/info/${serverIP}/json`,function(data) {
+            if(data.status) {
+                if(data.online) {
+                    $("#serverlist-status").text("Online");
+
+                    $("#sl-players").text(data.players.online);
+                    $("#sl-maxplayers").text(data.players.max);
+                    $("#sl-ping").text(data.took + " ms");
+                    $("#sl-motd").text(parseMotd(data.motd));
+                }
+                else {
+                    $("#serverlist-status").text("Offline");
+                }
+            }
+            else {
+                $("#serverlist-status").text("Failed to load");
+            }
+        })
     </script>
 
     <script type="text/javascript">
