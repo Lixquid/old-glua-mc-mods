@@ -15,6 +15,7 @@
  - [Mekanism](http://aidancbrady.com/mekanism/download/)
  - [Tails mod](https://minecraft.curseforge.com/projects/tails)
  - [Extra Utils](https://minecraft.curseforge.com/projects/extra-utilities)
+ - [Open Computers](https://minecraft.curseforge.com/projects/opencomputers)
 
 # Library Mods
 
