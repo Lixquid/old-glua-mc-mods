@@ -22,12 +22,18 @@
  - [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
  - [Iron Backpacks](https://minecraft.curseforge.com/projects/iron-backpacks)
  - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
+ - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
  
  ## Client Mods
  
  - [Inventory Sorter](https://minecraft.curseforge.com/projects/inventory-sorter)
  - [JEI](https://minecraft.curseforge.com/projects/just-enough-items-jei)
+ - [Custom Main Menu](https://minecraft.curseforge.com/projects/custom-main-menu)
  
+ ### Custom Main Menu
+ 
+ something that looks like
+ ![this](https://i.imgur.com/HjPgKpB.png)
  
 ## Library Mods
 
