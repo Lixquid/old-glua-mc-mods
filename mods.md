@@ -5,7 +5,7 @@
 
 - Forge Mod Loader
 
-# Library Mods
+# Actual Mods
 
  - [Applied Energistics 2](https://minecraft.curseforge.com/projects/applied-energistics-2)
  - [Refined Storage](https://minecraft.curseforge.com/projects/refined-storage)
@@ -15,6 +15,8 @@
  - [Mekanism](http://aidancbrady.com/mekanism/download/)
  - [Tails mod](https://minecraft.curseforge.com/projects/tails)
  - [Thermal Expansion](https://mods.curse.com/mc-mods/minecraft/thermalexpansion)
+
+# Library Mods
 
 # Ideas / Notes
 
