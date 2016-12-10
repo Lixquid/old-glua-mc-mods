@@ -17,7 +17,9 @@ glua.team.addMod("Iron Backpacks","https://minecraft.curseforge.com/projects/iro
 glua.team.addMod("Ranged Pumps","https://minecraft.curseforge.com/projects/ranged-pumps");
 glua.team.addMod("Super Crafting Frame","https://mods.curse.com/mc-mods/minecraft/super-crafting-frame");
 glua.team.addMod("Tinker's Construct","https://mods.curse.com/mc-mods/minecraft/tinkers-construct");
-
+glua.team.addMod("Soul Shards The Old Ways","https://minecraft.curseforge.com/projects/soul-shards-the-old-ways");
+glua.team.addMod("Reliquary","#");
+glua.team.addMod("Better Builder's Wands","#");
 
 glua.team.addClientMod("Inventory Sorter","https://minecraft.curseforge.com/projects/inventory-sorter");
 glua.team.addClientMod("JEI","https://minecraft.curseforge.com/projects/just-enough-items-jei");
