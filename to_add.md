@@ -1,6 +1,7 @@
 # Things to add
 
-- Minimap plugin
-- justenoughresources
-- gravestonemod
-- storage drawers
+- IRC thingy
+- Fast leaf decay
+- rftools dimensions
+- tinkers mechworks
+- WAILA
