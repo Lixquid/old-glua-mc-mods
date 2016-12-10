@@ -3,7 +3,8 @@
 
 # Required Mods
 
-- Forge Mod Loader
+ - [Forge Mod Loader](http://files.minecraftforge.net/)
+ - [OptiFine](https://optifine.net/downloads) ???
 
 # Actual Mods
 
@@ -21,6 +22,7 @@
  - [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
  - [Iron Backpacks](https://minecraft.curseforge.com/projects/iron-backpacks)
  - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
+ - [Inventory Sorter](https://minecraft.curseforge.com/projects/inventory-sorter)
  
 # Library Mods
 
