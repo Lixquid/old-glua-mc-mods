@@ -22,6 +22,8 @@
  - [Iron Chests](https://minecraft.curseforge.com/projects/iron-chests)
  - [Iron Backpacks](https://minecraft.curseforge.com/projects/iron-backpacks)
  - [Ranged Pumps](https://minecraft.curseforge.com/projects/ranged-pumps)
+ - [Super Crafting Frame](https://mods.curse.com/mc-mods/minecraft/super-crafting-frame)
+ - [Tinker's Construct](https://mods.curse.com/mc-mods/minecraft/tinkers-construct)
  
  ## Client Mods
  
