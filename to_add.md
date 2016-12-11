@@ -5,3 +5,4 @@
 - https://minecraft.curseforge.com/projects/extreme-reactors
 - https://minecraft.curseforge.com/projects/inventory-tweaks
 - Refined Relocation
+- Simply Jetpacks
