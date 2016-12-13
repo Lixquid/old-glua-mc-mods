@@ -6,6 +6,7 @@
 - https://minecraft.curseforge.com/projects/inventory-tweaks
 - Refined Relocation
 - Simply Jetpacks
+- https://minecraft.curseforge.com/projects/openfm/files
 
 # Things to update
 
