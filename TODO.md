@@ -11,3 +11,8 @@
 # Things to update
 
 - [UPDATE CHISEL WTF](https://minecraft.curseforge.com/projects/chisel/files/2337360)
+
+
+# Things to do
+
+- Change location of spawn to somewhere further away from glua.base :<
