@@ -2,6 +2,15 @@
 
 <h3 align="center"><code>server.meinkraft.glua.team</code></h3>
 
+### 0.4.0
+
+- Added Extreme Reactors
+- Added Inventory Tweaks
+- Added OpenFM
+- Updated Chisel
+- Updated Reliquary
+- Removed Inventory Sorter
+
 ### 0.3.0
 
 - Added Fast Leaf Decay
