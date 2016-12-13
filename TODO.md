@@ -6,3 +6,7 @@
 - https://minecraft.curseforge.com/projects/inventory-tweaks
 - Refined Relocation
 - Simply Jetpacks
+
+# Things to update
+
+- [UPDATE CHISEL WTF](https://minecraft.curseforge.com/projects/chisel/files/2337360)
