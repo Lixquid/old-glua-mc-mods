@@ -2,6 +2,10 @@
 
 <h3 align="center"><code>server.meinkraft.glua.team</code></h3>
 
+### 0.4.1
+
+- Updated OpenFM (Bugfix)
+
 ### 0.4.0
 
 - Added Extreme Reactors
