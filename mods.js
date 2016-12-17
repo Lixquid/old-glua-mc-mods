@@ -20,10 +20,23 @@ glua.team.addMod("Tinker's Construct","https://mods.curse.com/mc-mods/minecraft/
 glua.team.addMod("Soul Shards The Old Ways","https://minecraft.curseforge.com/projects/soul-shards-the-old-ways");
 glua.team.addMod("Reliquary","#");
 glua.team.addMod("Better Builder's Wands","#");
+glua.team.addMod("Storage Drawers","#");
+glua.team.addMod("Gravestone Mod","#");
+glua.team.addMod("Journey Map","#");
+glua.team.addMod("Chisel","#");
+glua.team.addMod("Mekanism Generators","#");
+glua.team.addMod("Mekanism Tools","#");
+glua.team.addMod("Fast Leaf Decay","#");
+glua.team.addMod("Nether Portal Fix","#");
+glua.team.addMod("Extreme Reactors","#");
+glua.team.addMod("OpenFM","#");
 
-glua.team.addClientMod("Inventory Sorter","https://minecraft.curseforge.com/projects/inventory-sorter");
 glua.team.addClientMod("JEI","https://minecraft.curseforge.com/projects/just-enough-items-jei");
 glua.team.addClientMod("Custom Main Menu","https://minecraft.curseforge.com/projects/custom-main-menu");
+glua.team.addClientMod("WAILA","#");
+glua.team.addClientMod("WAILA harvestability","#");
+glua.team.addClientMod("WAWLA","#");
+glua.team.addClientMod("Inventory Tweaks","#");
 
 glua.team.randomiseMods();
 
