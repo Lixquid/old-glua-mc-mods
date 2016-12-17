@@ -8,11 +8,11 @@
 - [OpenGlasses](http://starchasers.pl/OpenGlasses/doku.php?id=download) (if it works on 1.10.2)
 - [Simply Jetpacks 2](https://mods.curse.com/mc-mods/minecraft/251792-simply-jetpacks-2)
 - IndustrialCraft 2 (yes, I concede.)
+- [MFFS](https://minecraft.curseforge.com/projects/modular-forcefield-system/files)
 
 # Things we want to add but can't add
 
 - Refined Relocation
-- MFFS
 - Open Modular Turrets
 
 # Things to update
