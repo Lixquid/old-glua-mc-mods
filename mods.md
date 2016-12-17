@@ -11,8 +11,6 @@
  - [Applied Energistics 2](https://minecraft.curseforge.com/projects/applied-energistics-2)
  - [Refined Storage](https://minecraft.curseforge.com/projects/refined-storage)
  - [Ender IO](https://minecraft.curseforge.com/projects/ender-io)
- - [SpongeForge](https://www.spongepowered.org/downloads/spongeforge)
-   - [CraftIRC](https://forums.spongepowered.org/t/craftirc-an-irc-minecraft-relay-plugin-api-4-0-0/6083) (to connect to #glua-freenode @ freenode)
  - [Mekanism](http://aidancbrady.com/mekanism/download/)
  - [Tails mod](https://minecraft.curseforge.com/projects/tails)
  - [Extra Utils](https://minecraft.curseforge.com/projects/extra-utilities)
@@ -25,14 +23,28 @@
  - [Super Crafting Frame](https://mods.curse.com/mc-mods/minecraft/super-crafting-frame)
  - [Tinker's Construct](https://mods.curse.com/mc-mods/minecraft/tinkers-construct)
  - [Soul Shards The Old Ways](https://minecraft.curseforge.com/projects/soul-shards-the-old-ways)
+ - Storage Drawers
+ - Gravestone Mod
+ - Journey Map
+ - RF Tools
+ - Chisel
  - Reliquary
  - Better Builder's Wands
- 
+ - Mekanism Generators
+ - Mekanism Tools
+ - Fast Leaf Decay
+ - Nether Portal Fix
+ - WAILA
+ - WAILA harvestability
+ - WAWLA
+ - Extreme Reactors
+ - OpenFM
+
  ## Client Mods
  
- - [Inventory Sorter](https://minecraft.curseforge.com/projects/inventory-sorter)
  - [JEI](https://minecraft.curseforge.com/projects/just-enough-items-jei)
  - [Custom Main Menu](https://minecraft.curseforge.com/projects/custom-main-menu)
+ - Inventory Tweaks
  
  ### Custom Main Menu
  
