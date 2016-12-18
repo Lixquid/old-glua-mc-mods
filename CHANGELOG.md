@@ -2,6 +2,14 @@
 
 <h3 align="center"><code>server.meinkraft.glua.team</code></h3>
 
+### 0.5.0
+
+- Added Computronics
+- Added Industrial Craft 2
+- Added MFFS
+- Added OpenGlasses
+- Added Simply Jetpacks 2
+
 ### 0.4.1
 
 - Updated OpenFM (Bugfix)
